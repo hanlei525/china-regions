@@ -1,6 +1,6 @@
 /*!
  * China Regions
- * Copyright (c) 2018 Instapp.
+ * Copyright (c) 2017-2019 Instapp.
  *
  * https://github.com/instapp/china-regions
  * http://instapp.io
@@ -1032,12 +1032,6 @@ let cities = {
   "371100": {
     "code": "371100",
     "name": "日照市",
-    "province_code": "370000",
-    "province": "山东省"
-  },
-  "371200": {
-    "code": "371200",
-    "name": "莱芜市",
     "province_code": "370000",
     "province": "山东省"
   },
@@ -2864,14 +2858,6 @@ let districts = {
     "province_code": "130000",
     "province": "河北省"
   },
-  "130223": {
-    "code": "130223",
-    "name": "滦县",
-    "city_code": "130200",
-    "city": "唐山市",
-    "province_code": "130000",
-    "province": "河北省"
-  },
   "130224": {
     "code": "130224",
     "name": "滦南县",
@@ -2915,6 +2901,14 @@ let districts = {
   "130283": {
     "code": "130283",
     "name": "迁安市",
+    "city_code": "130200",
+    "city": "唐山市",
+    "province_code": "130000",
+    "province": "河北省"
+  },
+  "130284": {
+    "code": "130284",
+    "name": "滦州市",
     "city_code": "130200",
     "city": "唐山市",
     "province_code": "130000",
@@ -4144,25 +4138,33 @@ let districts = {
     "province_code": "140000",
     "province": "山西省"
   },
-  "140402": {
-    "code": "140402",
-    "name": "城区",
+  "140403": {
+    "code": "140403",
+    "name": "潞州区",
     "city_code": "140400",
     "city": "长治市",
     "province_code": "140000",
     "province": "山西省"
   },
-  "140411": {
-    "code": "140411",
-    "name": "郊区",
+  "140404": {
+    "code": "140404",
+    "name": "上党区",
     "city_code": "140400",
     "city": "长治市",
     "province_code": "140000",
     "province": "山西省"
   },
-  "140421": {
-    "code": "140421",
-    "name": "长治县",
+  "140405": {
+    "code": "140405",
+    "name": "屯留区",
+    "city_code": "140400",
+    "city": "长治市",
+    "province_code": "140000",
+    "province": "山西省"
+  },
+  "140406": {
+    "code": "140406",
+    "name": "潞城区",
     "city_code": "140400",
     "city": "长治市",
     "province_code": "140000",
@@ -4171,14 +4173,6 @@ let districts = {
   "140423": {
     "code": "140423",
     "name": "襄垣县",
-    "city_code": "140400",
-    "city": "长治市",
-    "province_code": "140000",
-    "province": "山西省"
-  },
-  "140424": {
-    "code": "140424",
-    "name": "屯留县",
     "city_code": "140400",
     "city": "长治市",
     "province_code": "140000",
@@ -4235,14 +4229,6 @@ let districts = {
   "140431": {
     "code": "140431",
     "name": "沁源县",
-    "city_code": "140400",
-    "city": "长治市",
-    "province_code": "140000",
-    "province": "山西省"
-  },
-  "140481": {
-    "code": "140481",
-    "name": "潞城市",
     "city_code": "140400",
     "city": "长治市",
     "province_code": "140000",
@@ -10016,14 +10002,6 @@ let districts = {
     "province_code": "340000",
     "province": "安徽省"
   },
-  "340824": {
-    "code": "340824",
-    "name": "潜山县",
-    "city_code": "340800",
-    "city": "安庆市",
-    "province_code": "340000",
-    "province": "安徽省"
-  },
   "340825": {
     "code": "340825",
     "name": "太湖县",
@@ -10059,6 +10037,14 @@ let districts = {
   "340881": {
     "code": "340881",
     "name": "桐城市",
+    "city_code": "340800",
+    "city": "安庆市",
+    "province_code": "340000",
+    "province": "安徽省"
+  },
+  "340882": {
+    "code": "340882",
+    "name": "潜山市",
     "city_code": "340800",
     "city": "安庆市",
     "province_code": "340000",
@@ -12000,17 +11986,33 @@ let districts = {
     "province_code": "370000",
     "province": "山东省"
   },
-  "370124": {
-    "code": "370124",
-    "name": "平阴县",
+  "370115": {
+    "code": "370115",
+    "name": "济阳区",
     "city_code": "370100",
     "city": "济南市",
     "province_code": "370000",
     "province": "山东省"
   },
-  "370125": {
-    "code": "370125",
-    "name": "济阳县",
+  "370116": {
+    "code": "370116",
+    "name": "莱芜区",
+    "city_code": "370100",
+    "city": "济南市",
+    "province_code": "370000",
+    "province": "山东省"
+  },
+  "370117": {
+    "code": "370117",
+    "name": "钢城区",
+    "city_code": "370100",
+    "city": "济南市",
+    "province_code": "370000",
+    "province": "山东省"
+  },
+  "370124": {
+    "code": "370124",
+    "name": "平阴县",
     "city_code": "370100",
     "city": "济南市",
     "province_code": "370000",
@@ -12648,22 +12650,6 @@ let districts = {
     "province_code": "370000",
     "province": "山东省"
   },
-  "371202": {
-    "code": "371202",
-    "name": "莱城区",
-    "city_code": "371200",
-    "city": "莱芜市",
-    "province_code": "370000",
-    "province": "山东省"
-  },
-  "371203": {
-    "code": "371203",
-    "name": "钢城区",
-    "city_code": "371200",
-    "city": "莱芜市",
-    "province_code": "370000",
-    "province": "山东省"
-  },
   "371302": {
     "code": "371302",
     "name": "兰山区",
@@ -12960,9 +12946,9 @@ let districts = {
     "province_code": "370000",
     "province": "山东省"
   },
-  "371626": {
-    "code": "371626",
-    "name": "邹平县",
+  "371681": {
+    "code": "371681",
+    "name": "邹平市",
     "city_code": "371600",
     "city": "滨州市",
     "province_code": "370000",
@@ -15192,9 +15178,9 @@ let districts = {
     "province_code": "430000",
     "province": "湖南省"
   },
-  "430221": {
-    "code": "430221",
-    "name": "株洲县",
+  "430212": {
+    "code": "430212",
+    "name": "渌口区",
     "city_code": "430200",
     "city": "株洲市",
     "province_code": "430000",
@@ -17336,17 +17322,17 @@ let districts = {
     "province_code": "450000",
     "province": "广西壮族自治区"
   },
-  "450331": {
-    "code": "450331",
-    "name": "荔浦县",
+  "450332": {
+    "code": "450332",
+    "name": "恭城瑶族自治县",
     "city_code": "450300",
     "city": "桂林市",
     "province_code": "450000",
     "province": "广西壮族自治区"
   },
-  "450332": {
-    "code": "450332",
-    "name": "恭城瑶族自治县",
+  "450381": {
+    "code": "450381",
+    "name": "荔浦市",
     "city_code": "450300",
     "city": "桂林市",
     "province_code": "450000",
@@ -19080,9 +19066,9 @@ let districts = {
     "province_code": "510000",
     "province": "四川省"
   },
-  "511521": {
-    "code": "511521",
-    "name": "宜宾县",
+  "511504": {
+    "code": "511504",
+    "name": "叙州区",
     "city_code": "511500",
     "city": "宜宾市",
     "province_code": "510000",
@@ -20184,9 +20170,9 @@ let districts = {
     "province_code": "520000",
     "province": "贵州省"
   },
-  "522322": {
-    "code": "522322",
-    "name": "兴仁县",
+  "522302": {
+    "code": "522302",
+    "name": "兴仁市",
     "city_code": "522300",
     "city": "黔西南布依族苗族自治州",
     "province_code": "520000",
@@ -20840,9 +20826,9 @@ let districts = {
     "province_code": "530000",
     "province": "云南省"
   },
-  "530630": {
-    "code": "530630",
-    "name": "水富县",
+  "530681": {
+    "code": "530681",
+    "name": "水富市",
     "city_code": "530600",
     "city": "昭通市",
     "province_code": "530000",
@@ -23232,14 +23218,6 @@ let districts = {
     "province_code": "620000",
     "province": "甘肃省"
   },
-  "620824": {
-    "code": "620824",
-    "name": "华亭县",
-    "city_code": "620800",
-    "city": "平凉市",
-    "province_code": "620000",
-    "province": "甘肃省"
-  },
   "620825": {
     "code": "620825",
     "name": "庄浪县",
@@ -23251,6 +23229,14 @@ let districts = {
   "620826": {
     "code": "620826",
     "name": "静宁县",
+    "city_code": "620800",
+    "city": "平凉市",
+    "province_code": "620000",
+    "province": "甘肃省"
+  },
+  "620881": {
+    "code": "620881",
+    "name": "华亭市",
     "city_code": "620800",
     "city": "平凉市",
     "province_code": "620000",
